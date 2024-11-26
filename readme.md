@@ -1,8 +1,5 @@
 # GoLang: Functions Practice
 
-## Repository
-
-https://github.com/sankarshandamle/assignment1/tree/main
 
 ## Overview
 
